@@ -1,3 +1,2 @@
 # Python-For-Data-Science
-This is a Data Science and Engineering course which I took as my open elective for my 7th Semester.
-This course teaches and deals basic Python and its librarries like NumPy, Matplotlib, CSV, Array, Scikit-Learn and more.
+I selected a Data Science and Engineering course as my open elective during my 7th semester. This course offers comprehensive instruction in fundamental Python programming and its associated libraries, including but not limited to NumPy, Matplotlib, CSV handling, arrays, and Scikit-Learn.
